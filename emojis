@@ -1,10 +1,10 @@
 MODS = {
-    [227455787] = true; -- vengeancee
+    [1] = true; -- vengeancee
 }
 
 ADMIN = {
     [0] = true; -- vengeance
-    [283222776] = true; -- crown emoji
+    [2] = true; -- crown emoji
 }
 
 --// Don't mess with anything below this
