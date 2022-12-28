@@ -1,5 +1,9 @@
 MODS = {
     [469081025] = true; -- vengeancee
+    [1431166211] = true; -- kyle
+    [109532438] = true; -- katsuu
+    [2371505604] = true; -- chary pooh
+    [1893359617] = true; -- natey pooh
 }
 
 ADMIN = {
