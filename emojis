@@ -1,5 +1,5 @@
 MODS = {
-    [1] = true; -- vengeancee
+    [469081025] = true; -- vengeancee
 }
 
 ADMIN = {
